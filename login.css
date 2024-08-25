@@ -1,0 +1,19 @@
+a{margin: 50px;
+    text-decoration: none;
+    color: brown;
+    text-align: center;}
+
+*{background-color: bisque;
+color: brown;}
+
+input{border-color: brown;}
+
+button{margin-top: 10px;
+size: 20px;}
+
+.wasay{margin: 5px;
+text-decoration: underline;
+}
+
+.baig{width: 110px; height: 30px;
+text-align: center;}
